@@ -37,7 +37,5 @@ Jekyll Boilerplate is a lightweight and cleaned up version of the initial [Jekyl
 * A `lang` attribute has been added to the default layout.
 * A `<main>` element has been added to the default layout.
 
-## Credits
-
-* [Jekyll](https://jekyllrb.com/)
-* [Hugo Giraudel](https://twitter.com/HugoGiraudel)
+### Mypage
+https://lexuantrung1612.github.io/my_page/
